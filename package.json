@@ -4,7 +4,7 @@
     "@playwright/test": "^1.58.0",
     "playwright": "^1.58.0"
   },
-  "name": "projeto2po",
+  "name": "Playwright-BDD-Advantage-Shopping",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
